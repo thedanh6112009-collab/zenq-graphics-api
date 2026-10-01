@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320">
+  <!-- Dynamic glowing blue wave ribbon -->
+  <path d="M 30 160 C 100 50, 200 40, 260 110 C 320 180, 240 260, 310 290 C 380 320, 440 270, 460 210" fill="none" stroke="#38BDF8" stroke-width="2.5"/>
+  <path d="M 35 168 C 105 60, 202 52, 260 118 C 318 184, 242 258, 312 284 C 378 310, 435 264, 455 208" fill="none" stroke="#0284C7" stroke-width="2"/>
+  <path d="M 40 176 C 110 70, 204 64, 260 126 C 316 188, 244 256, 314 278 C 376 300, 430 258, 450 206" fill="none" stroke="#60A5FA" stroke-width="1.8"/>
+  <path d="M 45 184 C 115 80, 206 76, 260 134 C 314 192, 246 254, 316 272 C 374 290, 425 252, 445 204" fill="none" stroke="#818CF8" stroke-width="1.5"/>
+  <path d="M 50 192 C 120 90, 208 88, 260 142 C 312 196, 248 252, 318 266 C 372 280, 420 246, 440 202" fill="none" stroke="#38BDF8" stroke-width="1.2"/>
+  <path d="M 55 200 C 125 100, 210 100, 260 150 C 310 200, 250 250, 320 260 C 370 270, 415 240, 435 200" fill="none" stroke="#0284C7" stroke-width="1"/>
+</svg>

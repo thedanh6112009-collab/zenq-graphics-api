@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 240" width="500" height="240">
+  <defs>
+    <linearGradient id="goldSmoke1" x1="0" y1="0" x2="1" y2="0.8">
+      <stop offset="0%" stop-color="#FFE082" stop-opacity="0.9"/>
+      <stop offset="40%" stop-color="#FFCA28" stop-opacity="0.8"/>
+      <stop offset="80%" stop-color="#FFB300" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FFA000" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="goldSmoke2" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFF8E1" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#FFD54F" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FF8F00" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <!-- Primary golden smoke cloud body -->
+  <path d="M 40 180 C 100 190, 150 160, 200 170 C 260 180, 290 140, 340 130 C 400 120, 440 90, 480 60 C 460 70, 420 85, 380 90 C 330 95, 300 120, 240 115 C 190 110, 150 130, 90 120 C 50 115, 30 140, 40 180 Z" fill="url(#goldSmoke1)"/>
+  <!-- Secondary ethereal wisps -->
+  <path d="M 90 170 C 160 160, 210 135, 270 145 C 330 155, 370 125, 420 100 C 450 85, 470 70, 485 55 C 470 65, 435 80, 395 90 C 340 105, 290 125, 220 120 C 160 115, 120 145, 90 170 Z" fill="url(#goldSmoke2)"/>
+</svg>

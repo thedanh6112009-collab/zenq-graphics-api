@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <defs>
+    <linearGradient id="starGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="100%" stop-color="#CA8A04"/>
+    </linearGradient>
+  </defs>
+  <path d="M 150 10 Q 150 150, 10 150 Q 150 150, 150 290 Q 150 150, 290 150 Q 150 150, 150 10 Z" fill="url(#starGold)"/>
+  <path d="M 150 60 Q 150 150, 60 150 Q 150 150, 150 240 Q 150 150, 240 150 Q 150 150, 150 60 Z" fill="#FEF9C3"/>
+</svg>

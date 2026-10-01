@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "total": 151,
+  "version": "2.1",
+  "total": 181,
   "categories": [
     {
       "name": "Mây & Khí quyển",
@@ -954,6 +954,206 @@
           "id": "animals_turtle",
           "name": "Rùa biển",
           "url": "https://zenq-graphics-api-online.vercel.app/animals/turtle.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Khung viền & Nhãn cổ điển",
+      "items": [
+        {
+          "id": "frames_frame_red_gold",
+          "name": "Khung đỏ viền vàng sang trọng",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/frame-red-gold.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_frame_vintage_rect",
+          "name": "Khung viền chữ nhật góc khuyết",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/frame-vintage-rect.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_frame_vintage_vertical",
+          "name": "Khung viền đứng giấy khen",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/frame-vintage-vertical.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_frame_ornate_badge",
+          "name": "Khung nhãn góc lượn cổ điển",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/frame-ornate-badge.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_divider_vintage_swirl",
+          "name": "Hoa văn phân cách cổ điển",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/divider-vintage-swirl.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_divider_flourish",
+          "name": "Đường nét hoa văn cách điệu",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/divider-flourish.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_frame_certificate_luxury",
+          "name": "Khung chứng chỉ mạ vàng",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/frame-certificate-luxury.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_frame_floral_corners",
+          "name": "Khung viền góc hoa văn tây phương",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/frame-floral-corners.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_frame_polaroid_shadow",
+          "name": "Khung ảnh nghệ thuật viền nổi",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/frame-polaroid-shadow.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_divider_laurel_wreath",
+          "name": "Vòng nguyệt quế vinh danh",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/divider-laurel-wreath.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_frame_classic_double",
+          "name": "Khung viền đôi thanh lịch",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/frame-classic-double.svg",
+          "type": "svg"
+        },
+        {
+          "id": "frames_frame_art_deco",
+          "name": "Khung góc phong cách Art Deco",
+          "url": "https://zenq-graphics-api-online.vercel.app/frames/frame-art-deco.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Sóng nghệ thuật & Làn khói",
+      "items": [
+        {
+          "id": "waves_effects_smoke_golden_swirl",
+          "name": "Dải khói vàng hoàng kim",
+          "url": "https://zenq-graphics-api-online.vercel.app/waves_effects/smoke-golden-swirl.svg",
+          "type": "svg"
+        },
+        {
+          "id": "waves_effects_smoke_golden_flow",
+          "name": "Làn khói vàng uốn lượn",
+          "url": "https://zenq-graphics-api-online.vercel.app/waves_effects/smoke-golden-flow.svg",
+          "type": "svg"
+        },
+        {
+          "id": "waves_effects_wave_abstract_blue",
+          "name": "Dải sóng vector xanh nghệ thuật",
+          "url": "https://zenq-graphics-api-online.vercel.app/waves_effects/wave-abstract-blue.svg",
+          "type": "svg"
+        },
+        {
+          "id": "waves_effects_wave_flowing_cyan",
+          "name": "Dải lụa vector phát sáng",
+          "url": "https://zenq-graphics-api-online.vercel.app/waves_effects/wave-flowing-cyan.svg",
+          "type": "svg"
+        },
+        {
+          "id": "waves_effects_light_beam_glow",
+          "name": "Tia sáng lung linh phát quang",
+          "url": "https://zenq-graphics-api-online.vercel.app/waves_effects/light-beam-glow.svg",
+          "type": "svg"
+        },
+        {
+          "id": "waves_effects_sparkle_starburst_gold",
+          "name": "Ngôi sao tỏa sáng hoàng kim",
+          "url": "https://zenq-graphics-api-online.vercel.app/waves_effects/sparkle-starburst-gold.svg",
+          "type": "svg"
+        },
+        {
+          "id": "waves_effects_wave_mesh_gradient",
+          "name": "Lưới sóng đa sắc hiện đại",
+          "url": "https://zenq-graphics-api-online.vercel.app/waves_effects/wave-mesh-gradient.svg",
+          "type": "svg"
+        },
+        {
+          "id": "waves_effects_sunburst_vintage",
+          "name": "Tia sáng mặt trời tỏa rạng",
+          "url": "https://zenq-graphics-api-online.vercel.app/waves_effects/sunburst-vintage.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Chuyển sắc & Phông nền",
+      "items": [
+        {
+          "id": "gradients_gradient_dark_fade",
+          "name": "Chuyển sắc đen mờ dần",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-dark-fade.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_vignette_black",
+          "name": "Khung bóng đổ viền mờ tối",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-vignette-black.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_soft_linear",
+          "name": "Chuyển sắc xám trắng mềm mại",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-soft-linear.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_radial_glow",
+          "name": "Vòng sáng tỏa tâm radial",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-radial-glow.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_sunset_warm",
+          "name": "Chuyển sắc hoàng hôn ấm áp",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-sunset-warm.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_bottom_shadow",
+          "name": "Bóng đổ chân trang tối",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-bottom-shadow.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Hoa & Nghệ thuật minh họa",
+      "items": [
+        {
+          "id": "artistic_floral_flower_glowing_lily",
+          "name": "Bông hoa bách hợp phát sáng",
+          "url": "https://zenq-graphics-api-online.vercel.app/artistic_floral/flower-glowing-lily.svg",
+          "type": "svg"
+        },
+        {
+          "id": "artistic_floral_flower_blooming_lotus",
+          "name": "Hoa sen nở rực rỡ",
+          "url": "https://zenq-graphics-api-online.vercel.app/artistic_floral/flower-blooming-lotus.svg",
+          "type": "svg"
+        },
+        {
+          "id": "artistic_floral_botanical_gold_branch",
+          "name": "Cành lá vàng ánh kim",
+          "url": "https://zenq-graphics-api-online.vercel.app/artistic_floral/botanical-gold-branch.svg",
+          "type": "svg"
+        },
+        {
+          "id": "artistic_floral_flower_vintage_rose",
+          "name": "Hoa hồng cổ điển",
+          "url": "https://zenq-graphics-api-online.vercel.app/artistic_floral/flower-vintage-rose.svg",
           "type": "svg"
         }
       ]

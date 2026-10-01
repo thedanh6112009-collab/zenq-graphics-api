@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="500" height="200">
+  <defs>
+    <linearGradient id="cyanSilk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <path d="M 10 120 C 120 40, 220 180, 340 100 C 410 50, 460 80, 490 120 C 440 140, 380 90, 300 130 C 200 180, 100 80, 10 120 Z" fill="url(#cyanSilk)"/>
+</svg>
