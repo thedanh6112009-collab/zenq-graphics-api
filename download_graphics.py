@@ -263,7 +263,7 @@ def main():
     catalog_categories = []
     total_downloaded = 0
 
-    repo_raw_base = "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public"
+    repo_raw_base = "https://zenq-graphics-api-online.vercel.app"
 
     for cat in CATEGORIES:
         folder_name = cat["folder"]
