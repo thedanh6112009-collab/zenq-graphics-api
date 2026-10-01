@@ -1092,15 +1092,15 @@
       "name": "Chuyển màu & Gradient",
       "items": [
         {
-          "id": "gradients_gradient_canva_fade_black",
-          "name": "Chuyển mượt đen về trong suốt (Canva)",
-          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-canva-fade-black.svg",
+          "id": "gradients_gradient_scrim_fade_black",
+          "name": "Chuyển mượt đen về trong suốt",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-scrim-fade-black.svg",
           "type": "svg"
         },
         {
-          "id": "gradients_gradient_canva_fade_white",
-          "name": "Chuyển mượt trắng về trong suốt (Canva)",
-          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-canva-fade-white.svg",
+          "id": "gradients_gradient_scrim_fade_white",
+          "name": "Chuyển mượt trắng về trong suốt",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-scrim-fade-white.svg",
           "type": "svg"
         },
         {
