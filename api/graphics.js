@@ -1,0 +1,1 @@
+module.exports = (req, res) => { const fs = require("fs"); const path = require("path"); const dataPath = path.join(process.cwd(), "data", "graphics.json"); const data = fs.readFileSync(dataPath, "utf8"); res.setHeader("Access-Control-Allow-Origin", "*"); res.status(200).json(JSON.parse(data)); };
