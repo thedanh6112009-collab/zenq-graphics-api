@@ -1,1 +1,962 @@
-{"version": "1.0", "categories": [{"name": "Vector Shapes", "items": [{"id": "star", "name": "Ngôi sao", "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/star.svg", "type": "svg"}]}]}
+{
+  "version": "2.0",
+  "total": 151,
+  "categories": [
+    {
+      "name": "Mây & Khí quyển",
+      "items": [
+        {
+          "id": "cloud_cloud",
+          "name": "Mây trắng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloudy",
+          "name": "Nhiều mây",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloudy.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_sun",
+          "name": "Mây và mặt trời",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-sun.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_moon",
+          "name": "Mây và trăng đêm",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-moon.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_rain",
+          "name": "Mây mưa",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-rain.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_snow",
+          "name": "Mây tuyết rơi",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-snow.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_lightning",
+          "name": "Mây sấm sét",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-lightning.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_fog",
+          "name": "Mây mù sương",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-fog.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_drizzle",
+          "name": "Mây mưa phùn",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-drizzle.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_hail",
+          "name": "Mây mưa đá",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-hail.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_download",
+          "name": "Tải về đám mây",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-download.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_upload",
+          "name": "Tải lên đám mây",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-upload.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_cog",
+          "name": "Cấu hình đám mây",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-cog.svg",
+          "type": "svg"
+        },
+        {
+          "id": "cloud_cloud_moon_rain",
+          "name": "Mưa đêm",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/cloud/cloud-moon-rain.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Mưa & Giông bão",
+      "items": [
+        {
+          "id": "rain_cloud_rain_wind",
+          "name": "Mưa bão gió lốc",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/cloud-rain-wind.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_cloud_sun_rain",
+          "name": "Mưa rào có nắng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/cloud-sun-rain.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_umbrella",
+          "name": "Chiếc ô che mưa",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/umbrella.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_rainbow",
+          "name": "Cầu vồng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/rainbow.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_wind",
+          "name": "Cơn gió thổi",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/wind.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_snowflake",
+          "name": "Bông tuyết trắng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/snowflake.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_sun",
+          "name": "Mặt trời",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/sun.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_sun_medium",
+          "name": "Ánh nắng vàng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/sun-medium.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_sun_dim",
+          "name": "Nắng dịu",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/sun-dim.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_thermometer",
+          "name": "Nhiệt kế",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/thermometer.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_thermometer_sun",
+          "name": "Nhiệt độ nóng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/thermometer-sun.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_thermometer_snowflake",
+          "name": "Nhiệt độ lạnh giá",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/thermometer-snowflake.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_zap",
+          "name": "Tia chớp sấm sét",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/zap.svg",
+          "type": "svg"
+        },
+        {
+          "id": "rain_tornado",
+          "name": "Cơn lốc xoáy",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/rain/tornado.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Sông ngòi & Nguồn nước",
+      "items": [
+        {
+          "id": "water_droplet",
+          "name": "Giọt nước",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/droplet.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_droplets",
+          "name": "Nhiều giọt nước",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/droplets.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_waves",
+          "name": "Sóng sông nước",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/waves.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_ship",
+          "name": "Thuyền lướt sóng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/ship.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_anchor",
+          "name": "Mỏ neo bến sông",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/anchor.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_fish",
+          "name": "Cá sông",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/fish.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_fish_symbol",
+          "name": "Biểu tượng loài cá",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/fish-symbol.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_life_buoy",
+          "name": "Phao cứu sinh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/life-buoy.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_bath",
+          "name": "Bồn nước thư giãn",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/bath.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_glass_water",
+          "name": "Ly nước mát",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/glass-water.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_cup_soda",
+          "name": "Đồ uống giải khát",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/cup-soda.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_fuel",
+          "name": "Nhiên liệu lỏng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/fuel.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_droplet_percent",
+          "name": "Độ ẩm nước",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/droplet-percent.svg",
+          "type": "svg"
+        },
+        {
+          "id": "water_sailboat",
+          "name": "Thuyền buồm trên sông",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/water/sailboat.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Thiên nhiên & Núi rừng",
+      "items": [
+        {
+          "id": "nature_mountain",
+          "name": "Núi non trùng điệp",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/mountain.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_mountain_snow",
+          "name": "Núi tuyết",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/mountain-snow.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_trees",
+          "name": "Rừng cây xanh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/trees.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_sunset",
+          "name": "Hoàng hôn",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/sunset.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_sunrise",
+          "name": "Bình minh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/sunrise.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_compass",
+          "name": "La bàn định hướng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/compass.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_tent",
+          "name": "Lều cắm trại",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/tent.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_flame",
+          "name": "Ngọn lửa ấm",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/flame.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_moon",
+          "name": "Mặt trăng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/moon.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_moon_star",
+          "name": "Trăng và sao",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/moon-star.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_sparkles",
+          "name": "Ánh sáng lấp lánh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/sparkles.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_sparkle",
+          "name": "Ngôi sao tỏa sáng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/sparkle.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_telescope",
+          "name": "Kính thiên văn",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/telescope.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_globe",
+          "name": "Quả địa cầu",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/globe.svg",
+          "type": "svg"
+        },
+        {
+          "id": "nature_earth",
+          "name": "Trái Đất xanh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/nature/earth.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Lá cây & Cây cỏ",
+      "items": [
+        {
+          "id": "plants_leaf",
+          "name": "Chiếc lá xanh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/leaf.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_flower",
+          "name": "Bông hoa tươi",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/flower.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_flower_2",
+          "name": "Bông hoa nở rộ",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/flower-2.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_clover",
+          "name": "Cỏ 4 lá may mắn",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/clover.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_tree_pine",
+          "name": "Cây thông",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/tree-pine.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_tree_deciduous",
+          "name": "Cây cổ thụ",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/tree-deciduous.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_tree_palm",
+          "name": "Cây cọ dừa",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/tree-palm.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_sprout",
+          "name": "Mầm cây đâm chồi",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/sprout.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_wheat",
+          "name": "Bông lúa mạch",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/wheat.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_apple",
+          "name": "Quả táo ngọt",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/apple.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_cherry",
+          "name": "Quả anh đào",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/cherry.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_grape",
+          "name": "Chùm nho",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/grape.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_citrus",
+          "name": "Lát cam tươi",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/citrus.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_carrot",
+          "name": "Củ cà rốt",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/carrot.svg",
+          "type": "svg"
+        },
+        {
+          "id": "plants_nut",
+          "name": "Hạt mầm",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/plants/nut.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Đất nước & Địa danh",
+      "items": [
+        {
+          "id": "countries_flag",
+          "name": "Lá cờ quốc gia",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/flag.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_flag_triangle_right",
+          "name": "Cờ hiệu",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/flag-triangle-right.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_map",
+          "name": "Bản đồ thế giới",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/map.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_map_pin",
+          "name": "Điểm đánh dấu vị trí",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/map-pin.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_map_pinned",
+          "name": "Ghim địa điểm",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/map-pinned.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_landmark",
+          "name": "Địa danh thắng cảnh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/landmark.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_castle",
+          "name": "Lâu đài kiến trúc",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/castle.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_building",
+          "name": "Tòa nhà cao tầng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/building.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_hotel",
+          "name": "Khách sạn",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/hotel.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_church",
+          "name": "Công trình tôn giáo",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/church.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_factory",
+          "name": "Khu công nghiệp",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/factory.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_store",
+          "name": "Cửa hàng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/store.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_school",
+          "name": "Trường học",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/school.svg",
+          "type": "svg"
+        },
+        {
+          "id": "countries_plane",
+          "name": "Chuyến bay quốc tế",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/countries/plane.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Con người & Nghề nghiệp",
+      "items": [
+        {
+          "id": "people_user",
+          "name": "Người dùng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/user.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_users",
+          "name": "Nhóm người",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/users.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_user_check",
+          "name": "Người dùng xác thực",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/user-check.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_user_plus",
+          "name": "Thêm người",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/user-plus.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_user_round",
+          "name": "Hình đại diện",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/user-round.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_contact",
+          "name": "Danh bạ",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/contact.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_graduation_cap",
+          "name": "Sinh viên cử nhân",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/graduation-cap.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_briefcase",
+          "name": "Nhân viên công sở",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/briefcase.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_stethoscope",
+          "name": "Bác sĩ y tế",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/stethoscope.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_heart_handshake",
+          "name": "Bắt tay hợp tác",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/heart-handshake.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_award",
+          "name": "Giải thưởng vinh danh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/award.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_medal",
+          "name": "Huy chương trao tặng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/medal.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_trophy",
+          "name": "Cúp vinh quang",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/trophy.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_heart",
+          "name": "Tình cảm con người",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/heart.svg",
+          "type": "svg"
+        },
+        {
+          "id": "people_handshake",
+          "name": "Giao lưu hữu nghị",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/people/handshake.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Đồ vật & Dụng cụ",
+      "items": [
+        {
+          "id": "tools_wrench",
+          "name": "Cờ lê sửa chữa",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/wrench.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_hammer",
+          "name": "Búa đóng đinh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/hammer.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_scissors",
+          "name": "Kéo cắt thủ công",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/scissors.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_pen_tool",
+          "name": "Bút vẽ vector",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/pen-tool.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_pencil",
+          "name": "Bút chì phác thảo",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/pencil.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_brush",
+          "name": "Cọ quét sơn",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/brush.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_paint_bucket",
+          "name": "Thùng sơn",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/paint-bucket.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_palette",
+          "name": "Bảng pha màu",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/palette.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_ruler",
+          "name": "Thước kẻ",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/ruler.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_calculator",
+          "name": "Máy tính cầm tay",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/calculator.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_camera",
+          "name": "Máy chụp ảnh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/camera.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_clock",
+          "name": "Đồng hồ treo tường",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/clock.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_watch",
+          "name": "Đồng hồ đeo tay",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/watch.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_bell",
+          "name": "Chuông báo",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/bell.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_key",
+          "name": "Chìa khóa",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/key.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_lock",
+          "name": "Ổ khóa bảo mật",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/lock.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_flashlight",
+          "name": "Đèn pin",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/flashlight.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_lightbulb",
+          "name": "Bóng đèn sáng tạo",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/lightbulb.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_glasses",
+          "name": "Kính mắt",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/glasses.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_book_open",
+          "name": "Sách mở",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/book-open.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_coffee",
+          "name": "Tách cà phê",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/coffee.svg",
+          "type": "svg"
+        },
+        {
+          "id": "tools_shield",
+          "name": "Khiên bảo vệ",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/tools/shield.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Phương tiện giao thông",
+      "items": [
+        {
+          "id": "transport_car",
+          "name": "Xe ô tô",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/car.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_car_front",
+          "name": "Đầu xe ô tô",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/car-front.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_bus",
+          "name": "Xe buýt",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/bus.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_bus_front",
+          "name": "Đầu xe buýt",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/bus-front.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_truck",
+          "name": "Xe tải",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/truck.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_bike",
+          "name": "Xe đạp thể thao",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/bike.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_train_front",
+          "name": "Tàu hỏa",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/train-front.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_plane_takeoff",
+          "name": "Máy bay cất cánh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/plane-takeoff.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_plane_landing",
+          "name": "Máy bay hạ cánh",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/plane-landing.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_rocket",
+          "name": "Tên lửa",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/rocket.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_sailboat",
+          "name": "Thuyền buồm",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/sailboat.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_gauge",
+          "name": "Đồng hồ tốc độ",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/gauge.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_traffic_cone",
+          "name": "Cọc phân làn giao thông",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/traffic-cone.svg",
+          "type": "svg"
+        },
+        {
+          "id": "transport_cable_car",
+          "name": "Cáp treo du lịch",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/transport/cable-car.svg",
+          "type": "svg"
+        }
+      ]
+    },
+    {
+      "name": "Thế giới động vật",
+      "items": [
+        {
+          "id": "animals_bird",
+          "name": "Chim muông",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/bird.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_cat",
+          "name": "Mèo con",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/cat.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_dog",
+          "name": "Cún con",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/dog.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_rabbit",
+          "name": "Thỏ trắng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/rabbit.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_fish",
+          "name": "Cá bơi",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/fish.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_bug",
+          "name": "Bọ cánh cứng",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/bug.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_snail",
+          "name": "Ốc sên",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/snail.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_paw_print",
+          "name": "Dấu chân thú",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/paw-print.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_feather",
+          "name": "Lông vũ chim",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/feather.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_egg",
+          "name": "Trứng ấp",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/egg.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_bone",
+          "name": "Khúc xương",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/bone.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_worm",
+          "name": "Sâu bọ",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/worm.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_shell",
+          "name": "Vỏ sò biển",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/shell.svg",
+          "type": "svg"
+        },
+        {
+          "id": "animals_turtle",
+          "name": "Rùa biển",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/animals/turtle.svg",
+          "type": "svg"
+        }
+      ]
+    }
+  ]
+}
