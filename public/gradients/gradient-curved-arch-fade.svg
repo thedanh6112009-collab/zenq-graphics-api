@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <linearGradient id="archFadeGrad" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#1E293B" stop-opacity="0.65"/>
+      <stop offset="65%" stop-color="#1E293B" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <path d="M 50 1000 L 50 450 C 50 150, 950 150, 950 450 L 950 1000 Z" fill="url(#archFadeGrad)" stroke="none"/>
+</svg>

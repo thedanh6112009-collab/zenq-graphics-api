@@ -1,6 +1,6 @@
 {
-  "version": "2.1",
-  "total": 181,
+  "version": "2.2",
+  "total": 197,
   "categories": [
     {
       "name": "Mây & Khí quyển",
@@ -1089,8 +1089,104 @@
       ]
     },
     {
-      "name": "Chuyển sắc & Phông nền",
+      "name": "Chuyển màu & Gradient",
       "items": [
+        {
+          "id": "gradients_gradient_canva_fade_black",
+          "name": "Chuyển mượt đen về trong suốt (Canva)",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-canva-fade-black.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_canva_fade_white",
+          "name": "Chuyển mượt trắng về trong suốt (Canva)",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-canva-fade-white.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_bilateral_sides_to_center",
+          "name": "Chuyển mượt 2 bên vào giữa trong suốt",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-bilateral-sides-to-center.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_bilateral_center_to_sides",
+          "name": "Dải sáng tâm tỏa mờ 2 bên",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-bilateral-center-to-sides.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_bilateral_vertical",
+          "name": "Chuyển mượt trên dưới vào giữa trong",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-bilateral-vertical.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_radial_spotlight_soft",
+          "name": "Tâm phát sáng tỏa mượt về trong",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-radial-spotlight-soft.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_radial_sunlight_warm",
+          "name": "Hào quang ánh dương ấm áp",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-radial-sunlight-warm.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_curved_arch_fade",
+          "name": "Vòm cầu cong chuyển mượt về trong",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-curved-arch-fade.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_wave_flow_fade",
+          "name": "Sóng uốn lượn chuyển mượt về trong",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-wave-flow-fade.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_oval_pill_glow",
+          "name": "Hình con nhộng phát sáng chuyển mượt",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-oval-pill-glow.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_corner_vignette_l",
+          "name": "Bóng đổ viền trái mờ dần vào trong",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-corner-vignette-l.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_corner_vignette_r",
+          "name": "Bóng đổ viền phải mờ dần vào trong",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-corner-vignette-r.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_diagonal_cyber_cyan",
+          "name": "Góc neon xanh cyber chuyển mượt",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-diagonal-cyber-cyan.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_neon_violet_aura",
+          "name": "Hào quang tím neon phát sáng tròn",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-neon-violet-aura.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_emerald_ambient",
+          "name": "Hào quang xanh ngọc lục bảo mượt",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-emerald-ambient.svg",
+          "type": "svg"
+        },
+        {
+          "id": "gradients_gradient_split_diagonal_fade",
+          "name": "Chuyển mượt góc chéo về trong suốt",
+          "url": "https://zenq-graphics-api-online.vercel.app/gradients/gradient-split-diagonal-fade.svg",
+          "type": "svg"
+        },
         {
           "id": "gradients_gradient_dark_fade",
           "name": "Chuyển sắc đen mờ dần",

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <radialGradient id="cyberCyanCorner" cx="0" cy="0" r="1.0">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.95"/>
+      <stop offset="30%" stop-color="#0284C7" stop-opacity="0.60"/>
+      <stop offset="60%" stop-color="#0369A1" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#0C4A6E" stop-opacity="0.0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="1000" height="1000" fill="url(#cyberCyanCorner)" stroke="none"/>
+</svg>

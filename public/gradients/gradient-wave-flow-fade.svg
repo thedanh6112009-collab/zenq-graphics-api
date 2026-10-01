@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600">
+  <defs>
+    <linearGradient id="waveFlowFade" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.90"/>
+      <stop offset="35%" stop-color="#6366F1" stop-opacity="0.60"/>
+      <stop offset="70%" stop-color="#818CF8" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#C7D2FE" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <path d="M 0 600 L 0 250 C 200 120, 450 380, 700 200 C 850 80, 950 160, 1000 200 L 1000 600 Z" fill="url(#waveFlowFade)" stroke="none"/>
+</svg>

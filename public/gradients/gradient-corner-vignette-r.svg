@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1000" width="600" height="1000">
+  <defs>
+    <linearGradient id="cornerVignetteR" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.90"/>
+      <stop offset="30%" stop-color="#000000" stop-opacity="0.60"/>
+      <stop offset="65%" stop-color="#000000" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="600" height="1000" fill="url(#cornerVignetteR)" stroke="none"/>
+</svg>

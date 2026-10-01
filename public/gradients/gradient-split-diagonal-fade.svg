@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <linearGradient id="splitDiagFade" x1="1" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.95"/>
+      <stop offset="25%" stop-color="#000000" stop-opacity="0.70"/>
+      <stop offset="55%" stop-color="#000000" stop-opacity="0.30"/>
+      <stop offset="80%" stop-color="#000000" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1000" height="1000" fill="url(#splitDiagFade)" stroke="none"/>
+</svg>
