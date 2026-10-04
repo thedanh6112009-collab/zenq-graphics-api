@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="dongSonGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFE082"/>
+      <stop offset="60%" stop-color="#FFB300"/>
+      <stop offset="100%" stop-color="#B57C1E"/>
+    </radialGradient>
+  </defs>
+  <!-- Vành tròn ngoài cùng -->
+  <circle cx="300" cy="300" r="280" fill="none" stroke="#D4AF37" stroke-width="6"/>
+  <circle cx="300" cy="300" r="260" fill="none" stroke="#B57C1E" stroke-width="4"/>
+  <circle cx="300" cy="300" r="230" fill="none" stroke="#D4AF37" stroke-width="5" stroke-dasharray="10 8"/>
+  <circle cx="300" cy="300" r="190" fill="none" stroke="#B57C1E" stroke-width="4"/>
+  <circle cx="300" cy="300" r="150" fill="none" stroke="#D4AF37" stroke-width="4" stroke-dasharray="6 6"/>
+  <circle cx="300" cy="300" r="110" fill="none" stroke="#B57C1E" stroke-width="3"/>
+  <!-- Ngôi sao 14 cánh tâm trống đồng -->
+  <polygon points="300,195 310,240 345,208 335,250 378,235 348,268 395,272 355,290 395,315 352,325 385,355 340,348 355,390 322,365 318,405 300,370 282,405 278,365 245,390 260,348 215,355 248,325 205,315 245,290 205,272 252,268 222,235 265,250 255,208 290,240" fill="url(#dongSonGrad)" stroke="#8D5B10" stroke-width="2"/>
+  <circle cx="300" cy="300" r="22" fill="#FFE082" stroke="#8D5B10" stroke-width="2"/>
+</svg>

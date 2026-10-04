@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Cột trụ đá giữa hồ sen -->
+  <rect x="225" y="320" width="50" height="130" fill="#78909C" stroke="#37474F" stroke-width="4"/>
+  <!-- Bệ đỡ xà gỗ cong -->
+  <polygon points="180,320 320,320 280,350 220,350" fill="#8D6E63"/>
+  <!-- Thân chùa Một Cột gỗ đỏ -->
+  <rect x="180" y="210" width="140" height="110" fill="#C62828" stroke="#8E0000" stroke-width="4"/>
+  <rect x="220" y="240" width="60" height="80" fill="#3E2723"/>
+  <!-- Mái chùa cong 4 góc đặc trưng kiến trúc Việt Nam -->
+  <path d="M 120 215 C 190 220 310 220 380 215 C 390 190 350 170 310 165 L 190 165 C 150 170 110 190 120 215 Z" fill="#D84315"/>
+  <!-- Đỉnh nóc ngói âm dương chùa -->
+  <path d="M 190 165 L 250 90 L 310 165 Z" fill="#BF360C"/>
+  <circle cx="250" cy="80" r="12" fill="#FFD54F"/>
+  <!-- Mặt nước hồ sen xanh biếc -->
+  <ellipse cx="250" cy="450" rx="200" ry="25" fill="#4FC3F7" opacity="0.6"/>
+</svg>

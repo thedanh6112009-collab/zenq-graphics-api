@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Vòng tròn chia độ la bàn -->
+  <circle cx="250" cy="250" r="220" fill="none" stroke="#2C3E50" stroke-width="4"/>
+  <circle cx="250" cy="250" r="200" fill="none" stroke="#2C3E50" stroke-width="2"/>
+  <circle cx="250" cy="250" r="170" fill="none" stroke="#7F8C8D" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <!-- 4 Kim chỉ chính N - S - W - E -->
+  <!-- Hướng Bắc N -->
+  <polygon points="250,30 262,230 250,250 238,230" fill="#2C3E50"/>
+  <polygon points="250,30 262,230 250,250" fill="#E74C3C"/>
+  <!-- Hướng Nam S -->
+  <polygon points="250,470 262,270 250,250 238,270" fill="#BDC3C7"/>
+  <polygon points="250,470 250,250 238,270" fill="#7F8C8D"/>
+  <!-- Hướng Đông E -->
+  <polygon points="470,250 270,262 250,250 270,238" fill="#BDC3C7"/>
+  <polygon points="470,250 270,238 250,250" fill="#7F8C8D"/>
+  <!-- Hướng Tây W -->
+  <polygon points="30,250 230,262 250,250 230,238" fill="#BDC3C7"/>
+  <polygon points="30,250 250,250 230,262" fill="#7F8C8D"/>
+  <!-- Các hướng phụ NE, NW, SE, SW -->
+  <polygon points="390,110 260,240 250,250 240,260" fill="#95A5A6"/>
+  <polygon points="110,110 240,240 250,250 260,260" fill="#95A5A6"/>
+  <polygon points="390,390 260,260 250,250 240,240" fill="#95A5A6"/>
+  <polygon points="110,390 240,260 250,250 260,240" fill="#95A5A6"/>
+  <!-- Tâm la bàn -->
+  <circle cx="250" cy="250" r="18" fill="#2C3E50" stroke="#FFFFFF" stroke-width="3"/>
+  <!-- Chữ cái 4 phương -->
+  <text x="250" y="24" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#E74C3C" text-anchor="middle">N</text>
+  <text x="250" y="495" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2C3E50" text-anchor="middle">S</text>
+  <text x="495" y="258" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2C3E50" text-anchor="middle">E</text>
+  <text x="12" y="258" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2C3E50" text-anchor="middle">W</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <!-- Ly thủy tinh cao trong suốt -->
+  <path d="M 120 220 L 140 460 C 140 475 260 475 260 460 L 280 220 Z" fill="#ECEFF1" stroke="#90A4AE" stroke-width="4"/>
+  <!-- Tầng sữa đặc trắng béo bên dưới -->
+  <path d="M 137 420 L 140 460 C 140 475 260 475 260 460 L 263 420 Z" fill="#FFFDE7"/>
+  <!-- Tầng cà phê phin đậm đà sánh mịn -->
+  <path d="M 125 280 L 137 420 L 263 420 L 275 280 Z" fill="#3E2723"/>
+  <!-- Những viên đá lạnh mát rượi -->
+  <rect x="150" y="290" width="40" height="40" rx="6" fill="#B3E5FC" opacity="0.8"/>
+  <rect x="210" y="320" width="40" height="40" rx="6" fill="#B3E5FC" opacity="0.8"/>
+  <!-- Phin cà phê nhôm truyền thống phía trên ly -->
+  <rect x="100" y="200" width="200" height="20" rx="4" fill="#CFD8DC" stroke="#78909C" stroke-width="3"/>
+  <rect x="120" y="130" width="160" height="70" rx="4" fill="#B0BEC5" stroke="#78909C" stroke-width="3"/>
+  <!-- Nắp phin -->
+  <path d="M 110 130 L 200 95 L 290 130 Z" fill="#CFD8DC" stroke="#78909C" stroke-width="3"/>
+  <circle cx="200" cy="90" r="10" fill="#90A4AE"/>
+</svg>

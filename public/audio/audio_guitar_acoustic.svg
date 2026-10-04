@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 600" width="300" height="600">
+  <defs>
+    <linearGradient id="guitarWood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D7A15C"/>
+      <stop offset="50%" stop-color="#B87333"/>
+      <stop offset="100%" stop-color="#80471C"/>
+    </linearGradient>
+  </defs>
+  <!-- Đầu đàn & khóa dây -->
+  <rect x="135" y="10" width="30" height="70" rx="6" fill="#5D4037"/>
+  <!-- Cần đàn -->
+  <rect x="142" y="80" width="16" height="200" fill="#3E2723"/>
+  <!-- Thùng đàn guitar chuẩn dáng số 8 -->
+  <path d="M 150 260 C 100 260 70 300 70 340 C 70 380 110 400 90 440 C 60 500 100 580 150 580 C 200 580 240 500 210 440 C 190 400 230 380 230 340 C 230 300 200 260 150 260 Z" fill="url(#guitarWood)" stroke="#5D4037" stroke-width="4"/>
+  <!-- Lỗ thoát âm tròn ở giữa thùng đàn -->
+  <circle cx="150" cy="380" r="34" fill="#212121" stroke="#D7A15C" stroke-width="5"/>
+  <!-- Ngựa đàn -->
+  <rect x="130" y="490" width="40" height="14" rx="3" fill="#3E2723"/>
+  <!-- Dây đàn -->
+  <line x1="150" y1="80" x2="150" y2="490" stroke="#FFFFFF" stroke-width="2" opacity="0.8"/>
+</svg>

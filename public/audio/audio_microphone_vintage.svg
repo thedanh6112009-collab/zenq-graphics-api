@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 500" width="300" height="500">
+  <defs>
+    <linearGradient id="micChrome" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#CFD8DC"/>
+      <stop offset="50%" stop-color="#90A4AE"/>
+      <stop offset="100%" stop-color="#455A64"/>
+    </linearGradient>
+  </defs>
+  <!-- Đầu micro dạng lưới sọc ngang -->
+  <rect x="90" y="50" width="120" height="170" rx="45" fill="url(#micChrome)" stroke="#263238" stroke-width="5"/>
+  <!-- Các khe thoát âm cổ điển -->
+  <line x1="110" y1="80" x2="190" y2="80" stroke="#263238" stroke-width="4"/>
+  <line x1="105" y1="105" x2="195" y2="105" stroke="#263238" stroke-width="4"/>
+  <line x1="100" y1="130" x2="200" y2="130" stroke="#263238" stroke-width="4"/>
+  <line x1="105" y1="155" x2="195" y2="155" stroke="#263238" stroke-width="4"/>
+  <line x1="110" y1="180" x2="190" y2="180" stroke="#263238" stroke-width="4"/>
+  <!-- Vòng cung gá kẹp chữ U -->
+  <path d="M 75 130 C 75 250 225 250 225 130" fill="none" stroke="#37474F" stroke-width="8"/>
+  <!-- Trục đứng & đế tròn để bàn -->
+  <rect x="142" y="245" width="16" height="150" fill="#37474F"/>
+  <ellipse cx="150" cy="420" rx="80" ry="25" fill="#263238"/>
+</svg>

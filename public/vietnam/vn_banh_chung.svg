@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <linearGradient id="laDongGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4CAF50"/>
+      <stop offset="50%" stop-color="#2E7D32"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <!-- Vuông vắn bánh chưng xanh lá dong -->
+  <rect x="80" y="80" width="340" height="340" rx="16" fill="url(#laDongGrad)" stroke="#0D3810" stroke-width="6"/>
+  <!-- Dây lạt giang vàng buộc chữ thập -->
+  <rect x="170" y="80" width="24" height="340" fill="#FFF59D" stroke="#FBC02D" stroke-width="2"/>
+  <rect x="306" y="80" width="24" height="340" fill="#FFF59D" stroke="#FBC02D" stroke-width="2"/>
+  <rect x="80" y="170" width="340" height="24" fill="#FFF59D" stroke="#FBC02D" stroke-width="2"/>
+  <rect x="80" y="306" width="340" height="24" fill="#FFF59D" stroke="#FBC02D" stroke-width="2"/>
+  <!-- Nút thắt lạt tre ở giữa -->
+  <circle cx="182" cy="182" r="8" fill="#FBC02D"/>
+  <circle cx="318" cy="182" r="8" fill="#FBC02D"/>
+  <circle cx="182" cy="318" r="8" fill="#FBC02D"/>
+  <circle cx="318" cy="318" r="8" fill="#FBC02D"/>
+</svg>

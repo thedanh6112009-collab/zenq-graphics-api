@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
+  <!-- Dây treo cong mềm mại -->
+  <path d="M 20 60 Q 400 180 780 60" fill="none" stroke="#757575" stroke-width="3"/>
+  <!-- 5 lá cờ đỏ sao vàng đung đưa -->
+  <!-- Lá 1 -->
+  <g transform="translate(110, 80) rotate(-15)">
+    <rect width="70" height="50" rx="3" fill="#DA251D"/>
+    <polygon points="35,12 39,23 50,23 41,29 44,40 35,33 26,40 29,29 20,23 31,23" fill="#FFFF00"/>
+  </g>
+  <!-- Lá 2 -->
+  <g transform="translate(240, 115) rotate(-6)">
+    <rect width="70" height="50" rx="3" fill="#DA251D"/>
+    <polygon points="35,12 39,23 50,23 41,29 44,40 35,33 26,40 29,29 20,23 31,23" fill="#FFFF00"/>
+  </g>
+  <!-- Lá 3 (chính giữa) -->
+  <g transform="translate(365, 125)">
+    <rect width="70" height="50" rx="3" fill="#DA251D"/>
+    <polygon points="35,12 39,23 50,23 41,29 44,40 35,33 26,40 29,29 20,23 31,23" fill="#FFFF00"/>
+  </g>
+  <!-- Lá 4 -->
+  <g transform="translate(490, 115) rotate(6)">
+    <rect width="70" height="50" rx="3" fill="#DA251D"/>
+    <polygon points="35,12 39,23 50,23 41,29 44,40 35,33 26,40 29,29 20,23 31,23" fill="#FFFF00"/>
+  </g>
+  <!-- Lá 5 -->
+  <g transform="translate(620, 80) rotate(15)">
+    <rect width="70" height="50" rx="3" fill="#DA251D"/>
+    <polygon points="35,12 39,23 50,23 41,29 44,40 35,33 26,40 29,29 20,23 31,23" fill="#FFFF00"/>
+  </g>
+</svg>

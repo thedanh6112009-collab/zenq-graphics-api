@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 450" width="400" height="450">
+  <defs>
+    <radialGradient id="bulbGlow" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#FFEE58"/>
+      <stop offset="80%" stop-color="#FDD835"/>
+      <stop offset="100%" stop-color="#F57F17"/>
+    </radialGradient>
+  </defs>
+  <!-- Các tia sáng tỏa ra -->
+  <line x1="200" y1="20" x2="200" y2="55" stroke="#FBC02D" stroke-width="6" stroke-linecap="round"/>
+  <line x1="80" y1="70" x2="105" y2="95" stroke="#FBC02D" stroke-width="6" stroke-linecap="round"/>
+  <line x1="320" y1="70" x2="295" y2="95" stroke="#FBC02D" stroke-width="6" stroke-linecap="round"/>
+  <!-- Bầu thủy tinh bóng đèn -->
+  <path d="M 200 70 C 130 70 95 125 95 180 C 95 230 140 265 145 310 L 255 310 C 260 265 305 230 305 180 C 305 125 270 70 200 70 Z" fill="url(#bulbGlow)" stroke="#F57F17" stroke-width="4"/>
+  <!-- Đuôi ren xoắn kim loại -->
+  <rect x="150" y="320" width="100" height="18" rx="6" fill="#B0BEC5"/>
+  <rect x="160" y="344" width="80" height="18" rx="6" fill="#90A4AE"/>
+  <rect x="175" y="368" width="50" height="18" rx="8" fill="#78909C"/>
+</svg>

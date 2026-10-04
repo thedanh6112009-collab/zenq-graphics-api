@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="500" height="400">
+  <!-- Nốt móc đơn hồng -->
+  <ellipse cx="140" cy="300" rx="30" ry="22" transform="rotate(-20 140 300)" fill="#E91E63"/>
+  <rect x="160" y="140" width="10" height="160" fill="#E91E63"/>
+  <path d="M 170 140 C 210 150 230 190 220 230 C 215 200 195 170 170 165 Z" fill="#E91E63"/>
+  <!-- Nốt đôi vàng ấm -->
+  <ellipse cx="280" cy="240" rx="26" ry="18" transform="rotate(-20 280 240)" fill="#FFB300"/>
+  <rect x="298" y="90" width="9" height="150" fill="#FFB300"/>
+  <ellipse cx="380" cy="210" rx="26" ry="18" transform="rotate(-20 380 210)" fill="#FFB300"/>
+  <rect x="398" y="60" width="9" height="150" fill="#FFB300"/>
+  <polygon points="298,90 407,60 407,82 298,112" fill="#FFB300"/>
+  <!-- Các ngôi sao lấp lánh 4 cánh xung quanh -->
+  <path d="M 70 120 Q 90 120 90 100 Q 90 120 110 120 Q 90 120 90 140 Q 90 120 70 120 Z" fill="#00E5FF"/>
+  <path d="M 420 130 Q 435 130 435 115 Q 435 130 450 130 Q 435 130 435 145 Q 435 130 420 130 Z" fill="#FF4081"/>
+  <path d="M 230 50 Q 240 50 240 40 Q 240 50 250 50 Q 240 50 240 60 Q 240 50 230 50 Z" fill="#FFEA00"/>
+</svg>

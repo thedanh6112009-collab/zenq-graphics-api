@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="500" height="400">
+  <!-- Nốt vàng pastel -->
+  <ellipse cx="160" cy="270" rx="38" ry="26" transform="rotate(-20 160 270)" fill="#FFF59D"/>
+  <rect x="186" y="80" width="14" height="190" rx="7" fill="#FFF59D"/>
+  <!-- Nốt hồng pastel -->
+  <ellipse cx="320" cy="330" rx="38" ry="26" transform="rotate(-20 320 330)" fill="#F8BBD0"/>
+  <rect x="346" y="140" width="14" height="190" rx="7" fill="#F8BBD0"/>
+  <!-- Nốt xanh ngọc pastel -->
+  <ellipse cx="410" cy="220" rx="30" ry="22" transform="rotate(-20 410 220)" fill="#B2DFDB"/>
+  <rect x="432" y="70" width="12" height="150" rx="6" fill="#B2DFDB"/>
+  <path d="M 444 70 C 475 80 485 110 475 140 C 470 120 455 95 444 90 Z" fill="#B2DFDB"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <linearGradient id="hpGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#37474F"/>
+      <stop offset="100%" stop-color="#212121"/>
+    </linearGradient>
+  </defs>
+  <!-- Quai đeo vòm đầu (Headband) -->
+  <path d="M 80 260 C 80 120 150 60 250 60 C 350 60 420 120 420 260" fill="none" stroke="url(#hpGrad)" stroke-width="26" stroke-linecap="round"/>
+  <!-- Đệm tai trái (Ear cup) -->
+  <rect x="50" y="240" width="60" height="120" rx="28" fill="#455A64" stroke="#263238" stroke-width="6"/>
+  <rect x="90" y="260" width="25" height="80" rx="12" fill="#212121"/>
+  <!-- Đệm tai phải (Ear cup) -->
+  <rect x="390" y="240" width="60" height="120" rx="28" fill="#455A64" stroke="#263238" stroke-width="6"/>
+  <rect x="385" y="260" width="25" height="80" rx="12" fill="#212121"/>
+</svg>

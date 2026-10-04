@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <!-- Đầu nốt trái -->
+  <ellipse cx="70" cy="230" rx="35" ry="25" transform="rotate(-25 70 230)" fill="#1E293B"/>
+  <!-- Thân nốt trái -->
+  <rect x="92" y="60" width="12" height="170" fill="#1E293B"/>
+  <!-- Đầu nốt phải -->
+  <ellipse cx="210" cy="190" rx="35" ry="25" transform="rotate(-25 210 190)" fill="#1E293B"/>
+  <!-- Thân nốt phải -->
+  <rect x="232" y="20" width="12" height="170" fill="#1E293B"/>
+  <!-- Xà ngang nối hai nốt nhạc (Beam) -->
+  <polygon points="92,60 244,20 244,48 92,88" fill="#1E293B"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 450" width="400" height="450">
+  <!-- Mái tóc nâu bồng bềnh -->
+  <path d="M 120 160 C 120 70 280 70 280 160 C 280 260 330 320 320 360 C 310 390 280 390 280 390 C 280 390 260 270 260 250 L 140 250 C 140 270 120 390 120 390 C 120 390 90 390 80 360 C 70 320 120 260 120 160 Z" fill="#8D6E63"/>
+  <!-- Khuôn mặt dễ thương -->
+  <ellipse cx="200" cy="200" rx="75" ry="70" fill="#FFECB3"/>
+  <!-- Đôi mắt nhắm thư thái -->
+  <path d="M 160 200 Q 175 210 190 200" fill="none" stroke="#5D4037" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 210 200 Q 225 210 240 200" fill="none" stroke="#5D4037" stroke-width="4" stroke-linecap="round"/>
+  <!-- Má hồng e ấp -->
+  <ellipse cx="160" cy="218" rx="14" ry="8" fill="#FFAB91" opacity="0.7"/>
+  <ellipse cx="240" cy="218" rx="14" ry="8" fill="#FFAB91" opacity="0.7"/>
+  <!-- Nụ cười mỉm nhỏ -->
+  <path d="M 195 228 Q 200 234 205 228" fill="none" stroke="#5D4037" stroke-width="3" stroke-linecap="round"/>
+  <!-- Tai nghe chụp tai xanh pastel -->
+  <path d="M 115 170 C 115 90 285 90 285 170" fill="none" stroke="#5C6BC0" stroke-width="14"/>
+  <rect x="95" y="160" width="35" height="70" rx="16" fill="#3949AB"/>
+  <rect x="270" y="160" width="35" height="70" rx="16" fill="#3949AB"/>
+  <!-- Áo phông cam đỏ ấm áp -->
+  <path d="M 125 310 C 125 280 275 280 275 310 L 300 440 L 100 440 Z" fill="#FF7043"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="500" height="450">
+  <!-- Chân đỡ kim loại -->
+  <line x1="250" y1="340" x2="250" y2="430" stroke="#78909C" stroke-width="6"/>
+  <!-- Trống Bass to ở giữa (Bass drum) -->
+  <circle cx="250" cy="270" r="110" fill="#E53935" stroke="#212121" stroke-width="8"/>
+  <circle cx="250" cy="270" r="85" fill="#FAFAFA" stroke="#B0BEC5" stroke-width="4"/>
+  <!-- Trống Tom nhỏ bên trái -->
+  <rect x="150" y="110" width="80" height="65" rx="6" fill="#1E88E5" stroke="#212121" stroke-width="5"/>
+  <!-- Trống Tom nhỏ bên phải -->
+  <rect x="270" y="110" width="80" height="65" rx="6" fill="#1E88E5" stroke="#212121" stroke-width="5"/>
+  <!-- Chũm chọe đồng bên trái (Cymbal) -->
+  <ellipse cx="100" cy="110" rx="70" ry="16" fill="#FFD54F" stroke="#FFA000" stroke-width="4"/>
+  <line x1="100" y1="110" x2="100" y2="380" stroke="#78909C" stroke-width="5"/>
+  <!-- Chũm chọe đồng bên phải (Ride Cymbal) -->
+  <ellipse cx="400" cy="100" rx="75" ry="18" fill="#FFD54F" stroke="#FFA000" stroke-width="4"/>
+  <line x1="400" y1="100" x2="400" y2="380" stroke="#78909C" stroke-width="5"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 700" width="400" height="700">
+  <defs>
+    <linearGradient id="mapGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E52D27"/>
+      <stop offset="100%" stop-color="#B31217"/>
+    </linearGradient>
+  </defs>
+  <!-- Bản đồ hình chữ S cách điệu đặc trưng -->
+  <path d="M 170 30 C 230 40 260 70 240 100 C 210 120 180 130 190 160 C 200 180 240 220 260 260 C 280 300 290 350 280 400 C 270 440 240 480 220 520 C 190 560 160 600 170 630 C 180 650 160 670 140 660 C 110 640 110 600 130 570 C 150 530 180 490 200 450 C 220 410 230 360 210 320 C 190 280 150 240 140 200 C 130 160 140 120 150 80 C 155 50 160 30 170 30 Z" fill="url(#mapGrad)" stroke="#B31217" stroke-width="2"/>
+  <!-- Thủ đô Hà Nội (Ngôi sao vàng) -->
+  <polygon points="190,95 195,107 208,107 197,115 201,127 190,120 179,127 183,115 172,107 185,107" fill="#FFEB3B"/>
+  <!-- Quần đảo Hoàng Sa & Trường Sa -->
+  <circle cx="320" cy="310" r="7" fill="#E52D27"/>
+  <circle cx="335" cy="325" r="5" fill="#E52D27"/>
+  <circle cx="310" cy="330" r="4" fill="#E52D27"/>
+  <circle cx="330" cy="460" r="6" fill="#E52D27"/>
+  <circle cx="350" cy="480" r="8" fill="#E52D27"/>
+  <circle cx="365" cy="500" r="5" fill="#E52D27"/>
+  <circle cx="340" cy="510" r="6" fill="#E52D27"/>
+  <!-- Đảo Phú Quốc -->
+  <ellipse cx="105" cy="625" rx="8" ry="14" fill="#E52D27"/>
+</svg>

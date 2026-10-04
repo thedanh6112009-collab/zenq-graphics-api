@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
+  <path d="M 20 60 Q 400 180 780 60" fill="none" stroke="#BDBDBD" stroke-width="3"/>
+  <!-- Các lá cờ tam giác xen kẽ đỏ vàng -->
+  <polygon points="90,85 140,80 115,160" fill="#FDD835"/>
+  <polygon points="170,105 220,110 195,190" fill="#E53935"/>
+  <polygon points="250,125 300,132 275,210" fill="#FDD835"/>
+  <!-- Cờ đỏ sao vàng ở giữa -->
+  <g transform="translate(360, 130)">
+    <rect width="80" height="60" rx="3" fill="#DA251D"/>
+    <polygon points="40,15 45,28 58,28 47,36 51,49 40,41 29,49 33,36 22,28 35,28" fill="#FFFF00"/>
+  </g>
+  <polygon points="490,132 540,125 515,210" fill="#FDD835"/>
+  <polygon points="570,110 620,105 595,190" fill="#E53935"/>
+  <polygon points="650,80 700,85 675,160" fill="#FDD835"/>
+</svg>

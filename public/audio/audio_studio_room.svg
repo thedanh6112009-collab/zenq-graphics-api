@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="500" height="400">
+  <!-- Căn phòng sàn gỗ ấm cúng -->
+  <rect width="500" height="260" fill="#FFF8E1"/>
+  <rect y="260" width="500" height="140" fill="#FFB74D"/>
+  <!-- Cửa sổ ánh sáng -->
+  <rect x="30" y="30" width="90" height="110" fill="#B3E5FC" stroke="#81D4FA" stroke-width="6"/>
+  <!-- Đàn Piano điện ở góc tường -->
+  <rect x="180" y="140" width="140" height="90" rx="6" fill="#212121"/>
+  <rect x="190" y="180" width="120" height="20" fill="#FFFFFF"/>
+  <line x1="205" y1="230" x2="205" y2="280" stroke="#212121" stroke-width="6"/>
+  <line x1="295" y1="230" x2="295" y2="280" stroke="#212121" stroke-width="6"/>
+  <!-- Đàn Guitar dựa tường -->
+  <ellipse cx="140" cy="270" rx="25" ry="35" fill="#E65100"/>
+  <rect x="136" y="180" width="8" height="60" fill="#795548"/>
+  <!-- Dàn trống nhạc Rock -->
+  <circle cx="380" cy="280" r="45" fill="#E53935" stroke="#212121" stroke-width="5"/>
+  <ellipse cx="440" cy="210" rx="35" ry="10" fill="#FFD54F"/>
+  <line x1="440" y1="210" x2="440" y2="330" stroke="#757575" stroke-width="4"/>
+</svg>

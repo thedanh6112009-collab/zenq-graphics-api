@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <radialGradient id="flagGlow" cx="35%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#FF4D4D"/>
+      <stop offset="70%" stop-color="#C8102E"/>
+      <stop offset="100%" stop-color="#800010"/>
+    </radialGradient>
+    <linearGradient id="starGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF200"/>
+      <stop offset="100%" stop-color="#FFC000"/>
+    </linearGradient>
+    <linearGradient id="shineOverlay" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="250" cy="250" r="230" fill="url(#flagGlow)" stroke="#A00E20" stroke-width="6"/>
+  <polygon points="250,90 286,200 402,200 308,268 344,380 250,310 156,380 192,268 98,200 214,200" fill="url(#starGrad)"/>
+  <ellipse cx="250" cy="160" rx="190" ry="110" fill="url(#shineOverlay)"/>
+</svg>

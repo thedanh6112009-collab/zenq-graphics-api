@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <!-- Ngọn lửa đẩy tên lửa -->
+  <polygon points="170,390 200,490 230,390" fill="#FF3D00"/>
+  <polygon points="185,390 200,450 215,390" fill="#FFEA00"/>
+  <!-- Cánh tên lửa hai bên -->
+  <path d="M 130 310 L 80 390 L 150 370 Z" fill="#D32F2F"/>
+  <path d="M 270 310 L 320 390 L 250 370 Z" fill="#D32F2F"/>
+  <!-- Thân tên lửa thon dài -->
+  <path d="M 200 40 C 140 140 140 330 140 380 L 260 380 C 260 330 260 140 200 40 Z" fill="#ECEFF1" stroke="#37474F" stroke-width="4"/>
+  <!-- Đầu tên lửa đỏ -->
+  <path d="M 200 40 C 170 90 160 150 160 180 L 240 180 C 240 150 230 90 200 40 Z" fill="#E53935"/>
+  <!-- Cửa sổ tròn tàu vũ trụ -->
+  <circle cx="200" cy="240" r="30" fill="#00B0FF" stroke="#37474F" stroke-width="6"/>
+</svg>

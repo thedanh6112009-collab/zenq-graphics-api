@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="500" height="400">
+  <defs>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#42A5F5"/>
+      <stop offset="100%" stop-color="#1565C0"/>
+    </linearGradient>
+  </defs>
+  <!-- Trục tọa độ -->
+  <line x1="50" y1="350" x2="450" y2="350" stroke="#78909C" stroke-width="6" stroke-linecap="round"/>
+  <!-- Các cột tăng dần -->
+  <rect x="80" y="240" width="55" height="110" rx="6" fill="url(#barGrad)"/>
+  <rect x="165" y="180" width="55" height="170" rx="6" fill="url(#barGrad)"/>
+  <rect x="250" y="120" width="55" height="230" rx="6" fill="url(#barGrad)"/>
+  <rect x="335" y="60" width="55" height="290" rx="6" fill="url(#barGrad)"/>
+  <!-- Mũi tên tăng trưởng màu xanh lá -->
+  <path d="M 60 260 L 180 190 L 270 140 L 410 40" fill="none" stroke="#00E676" stroke-width="8" stroke-linecap="round"/>
+  <polygon points="410,40 370,50 395,80" fill="#00E676"/>
+</svg>
