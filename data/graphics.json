@@ -2254,7 +2254,7 @@
       ]
     },
     {
-      "name": "Quá»‘c ká»³ cÃ¡c nÆ°á»›c (Flags)",
+      "name": "Quốc kỳ các nước (Flags)",
       "items": [
         {
           "id": "flags_ad",
@@ -3885,7 +3885,7 @@
       ]
     },
     {
-      "name": "Minh há» a (unDraw Basic)",
+      "name": "Minh họa (unDraw Basic)",
       "items": [
         {
           "id": "undraw_basic_3d_modeling",
@@ -8078,7 +8078,7 @@
       ]
     },
     {
-      "name": "ThiÃªn nhiÃªn & Thá» i tiáº¿t",
+      "name": "Thiên nhiên & Thời tiết",
       "items": [
         {
           "id": "weather_fontawesome-webfont",
@@ -8977,7 +8977,7 @@
       ]
     },
     {
-      "name": "Biá»ƒu tÆ°á»£ng rá»±c rá»¡ (Color Emojis)",
+      "name": "Biểu tượng rực rỡ (Color Emojis)",
       "items": [
         {
           "id": "fluent_color_1st_place_medal",
@@ -16728,7 +16728,7 @@
       ]
     },
     {
-      "name": "Bá»‘i cáº£nh phá»©c táº¡p (Scenes)",
+      "name": "Bối cảnh phức tạp (Scenes)",
       "items": [
         {
           "id": "complex_scenes_3d-modeling",
