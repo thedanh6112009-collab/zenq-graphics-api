@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "total": 4127,
+  "total": 4155,
   "categories": [
     {
       "name": "Mây & Khí quyển",
@@ -1333,6 +1333,174 @@
           "id": "vietnam_vn_banh_chung",
           "name": "Bánh chưng xanh Tết cổ truyền",
           "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_banh_chung.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_lang_chu_tich_ho_chi_minh",
+          "name": "Lăng Chủ tịch Hồ Chí Minh (Hà Nội)",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_lang_chu_tich_ho_chi_minh.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_trong_dong_dong_son_hoang_kim",
+          "name": "Trống đồng Đông Sơn hoàng kim rực rỡ",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_trong_dong_dong_son_hoang_kim.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_hoa_van_lac_viet_co_truyen",
+          "name": "Họa tiết Lạc Việt cổ truyền mạ vàng",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_hoa_van_lac_viet_co_truyen.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_huy_hieu_quoc_khanh_2_9",
+          "name": "Huy hiệu tròn Chào mừng Quốc khánh 2/9",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_huy_hieu_quoc_khanh_2_9.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_ngoi_sao_vang_toa_sang",
+          "name": "Ngôi sao vàng 5 cánh tỏa sáng nền đỏ",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_ngoi_sao_vang_toa_sang.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_bieu_tuong_quoc_ky_vang_do",
+          "name": "Biểu tượng Quốc kỳ Việt Nam đỏ vàng",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_bieu_tuong_quoc_ky_vang_do.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_co_do_sao_vang_uon_luon",
+          "name": "Cờ đỏ sao vàng uốn lượn nghệ thuật",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_co_do_sao_vang_uon_luon.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_dai_lua_do_sao_vang_ngang",
+          "name": "Dải lụa cờ đỏ sao vàng ngang",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_dai_lua_do_sao_vang_ngang.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_bang_ron_do_le_hoi_dai",
+          "name": "Băng rôn đỏ trang trí lễ hội mừng Quốc khánh",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_bang_ron_do_le_hoi_dai.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_dai_bang_ron_do_uon_song",
+          "name": "Dải băng rôn đỏ uốn lượn mềm mại",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_dai_bang_ron_do_uon_song.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_dai_lua_vang_hoang_kim",
+          "name": "Dải lụa vàng hoàng kim chúc mừng",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_dai_lua_vang_hoang_kim.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_cot_co_lua_do_vang_dung",
+          "name": "Dải cờ lụa đỏ vàng dáng đứng",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_cot_co_lua_do_vang_dung.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_dai_lua_trang_tri_doc_vang_cam",
+          "name": "Dải lụa trang trí dọc vàng cam",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_dai_lua_trang_tri_doc_vang_cam.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_ruy_bang_vang_chao_mung",
+          "name": "Ruy băng vàng nghệ thuật chào mừng",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_ruy_bang_vang_chao_mung.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_dai_lua_do_trang_tri_bien",
+          "name": "Dải lụa đỏ trang trí viền khung",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_dai_lua_do_trang_tri_bien.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_cum_hoa_van_do_quoc_khanh",
+          "name": "Cụm hoa văn đỏ Quốc khánh hiện đại",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_cum_hoa_van_do_quoc_khanh.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_hoa_tiet_do_chao_mung_2_9",
+          "name": "Họa tiết cờ hoa chào mừng 2/9",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_hoa_tiet_do_chao_mung_2_9.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_hao_quang_sao_vang_cach_dieu",
+          "name": "Hào quang sao vàng cách điệu rực rỡ",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_hao_quang_sao_vang_cach_dieu.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_phu_hieu_bieu_trung_van_hoa",
+          "name": "Phù hiệu biểu trưng văn hóa Việt Nam",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_phu_hieu_bieu_trung_van_hoa.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_chim_hac_trong_dong_dong_son",
+          "name": "Họa tiết chim Hạc Lạc Việt cổ",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_chim_hac_trong_dong_dong_son.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_dai_cuon_thu_dong_co_dien",
+          "name": "Cuộn thư đồng cổ kính trang nghiêm",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_dai_cuon_thu_dong_co_dien.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_hoa_tiet_dom_sang_lung_linh",
+          "name": "Họa tiết đốm sáng vàng lung linh",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_hoa_tiet_dom_sang_lung_linh.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_bong_sen_vang_quoc_hoa",
+          "name": "Bông sen vàng quốc hoa cách điệu",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_bong_sen_vang_quoc_hoa.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_hoa_van_chim_lac_dong_son_xam",
+          "name": "Hoa văn chim Lạc trống đồng Đông Sơn (Xám bạc)",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_hoa_van_chim_lac_dong_son_xam.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_hoa_van_chim_lac_dong_son_trang",
+          "name": "Hoa văn chim Lạc trống đồng Đông Sơn (Trắng sáng)",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_hoa_van_chim_lac_dong_son_trang.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_bong_hinh_kien_truc_di_tich",
+          "name": "Bóng hình kiến trúc di tích lịch sử",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_bong_hinh_kien_truc_di_tich.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_dai_co_lua_do_vector",
+          "name": "Dải cờ lụa đỏ uốn lượn vector",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_dai_co_lua_do_vector.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_vn_ngoi_sao_vang_nam_canh_vector",
+          "name": "Ngôi sao vàng năm cánh tỏa sáng vector",
+          "url": "https://zenq-graphics-api-online.vercel.app/vietnam/vn_ngoi_sao_vang_nam_canh_vector.svg",
           "type": "svg"
         }
       ]
