@@ -3,7 +3,7 @@
   "total": 4662,
   "categories": [
     {
-      "name": "Mây & Khí quyển",
+      "name": "Mây và khí quyển",
       "items": [
         {
           "id": "cloud_cloud",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "Mưa & Giông bão",
+      "name": "Mưa và giông bão",
       "items": [
         {
           "id": "rain_cloud_rain_wind",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Sông ngòi & Nguồn nước",
+      "name": "Sông ngòi nguồn nước",
       "items": [
         {
           "id": "water_droplet",
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "name": "Thiên nhiên & Núi rừng",
+      "name": "Thiên nhiên núi rừng",
       "items": [
         {
           "id": "nature_mountain",
@@ -365,7 +365,7 @@
       ]
     },
     {
-      "name": "Lá cây & Cây cỏ",
+      "name": "Cây cỏ hoa lá",
       "items": [
         {
           "id": "plants_leaf",
@@ -460,7 +460,7 @@
       ]
     },
     {
-      "name": "Đất nước & Địa danh",
+      "name": "Địa danh quốc gia",
       "items": [
         {
           "id": "countries_flag",
@@ -549,7 +549,7 @@
       ]
     },
     {
-      "name": "Con người & Nghề nghiệp",
+      "name": "Con người nghề nghiệp",
       "items": [
         {
           "id": "people_user",
@@ -644,7 +644,7 @@
       ]
     },
     {
-      "name": "Đồ vật & Dụng cụ",
+      "name": "Đồ vật dụng cụ",
       "items": [
         {
           "id": "tools_wrench",
@@ -959,7 +959,7 @@
       ]
     },
     {
-      "name": "Khung viền & Nhãn cổ điển",
+      "name": "Khung viền cổ điển",
       "items": [
         {
           "id": "frames_frame_red_gold",
@@ -1036,7 +1036,7 @@
       ]
     },
     {
-      "name": "Sóng nghệ thuật & Làn khói",
+      "name": "Sóng và làn khói",
       "items": [
         {
           "id": "waves_effects_smoke_golden_swirl",
@@ -1089,7 +1089,7 @@
       ]
     },
     {
-      "name": "Chuyển màu & Gradient",
+      "name": "Chuyển màu Gradient",
       "items": [
         {
           "id": "gradients_gradient_scrim_fade_black",
@@ -1226,7 +1226,7 @@
       ]
     },
     {
-      "name": "Hoa & Nghệ thuật minh họa",
+      "name": "Hoa và thực vật",
       "items": [
         {
           "id": "artistic_floral_flower_glowing_lily",
@@ -1255,7 +1255,7 @@
       ]
     },
     {
-      "name": "Việt Nam & Văn hóa",
+      "name": "Văn hóa Việt Nam",
       "items": [
         {
           "id": "vietnam_vn_flag",
@@ -1506,7 +1506,7 @@
       ]
     },
     {
-      "name": "Âm nhạc & Giai điệu",
+      "name": "Âm nhạc giai điệu",
       "items": [
         {
           "id": "music_music_treble_clef",
@@ -1661,7 +1661,7 @@
       ]
     },
     {
-      "name": "Nhạc cụ & Âm thanh",
+      "name": "Nhạc cụ âm thanh",
       "items": [
         {
           "id": "audio_audio_soundwave",
@@ -1714,7 +1714,7 @@
       ]
     },
     {
-      "name": "Giáo dục & Học tập",
+      "name": "Giáo dục học tập",
       "items": [
         {
           "id": "education_edu_grad_cap",
@@ -1863,7 +1863,7 @@
       ]
     },
     {
-      "name": "Kinh doanh & Khởi nghiệp",
+      "name": "Kinh doanh khởi nghiệp",
       "items": [
         {
           "id": "business_biz_chart_up",
@@ -1976,7 +1976,7 @@
       ]
     },
     {
-      "name": "Khoa học & Công nghệ",
+      "name": "Khoa học công nghệ",
       "items": [
         {
           "id": "tech_tech_robot_ai",
@@ -2113,7 +2113,7 @@
       ]
     },
     {
-      "name": "Ẩm thực & Thức uống",
+      "name": "Ẩm thực thức uống",
       "items": [
         {
           "id": "food_food_vietnamese_coffee",
@@ -2220,7 +2220,7 @@
       ]
     },
     {
-      "name": "Mạng xã hội & Biểu tượng cảm xúc",
+      "name": "Mạng xã hội",
       "items": [
         {
           "id": "social_social_heart",
@@ -2351,7 +2351,7 @@
       ]
     },
     {
-      "name": "Y tế, Sức khỏe & Thể thao",
+      "name": "Y tế sức khỏe",
       "items": [
         {
           "id": "health_activity",
@@ -2422,7 +2422,7 @@
       ]
     },
     {
-      "name": "Quốc kỳ các nước (Flags)",
+      "name": "Quốc kỳ các nước",
       "items": [
         {
           "id": "flags_ad",
@@ -4053,7 +4053,7 @@
       ]
     },
     {
-      "name": "Minh họa (unDraw Basic)",
+      "name": "Tranh minh họa",
       "items": [
         {
           "id": "undraw_basic_3d_modeling",
@@ -8246,7 +8246,7 @@
       ]
     },
     {
-      "name": "Thiên nhiên & Thời tiết",
+      "name": "Thời tiết thiên nhiên",
       "items": [
         {
           "id": "weather_fontawesome-webfont",
@@ -9145,7 +9145,7 @@
       ]
     },
     {
-      "name": "Biểu tượng rực rỡ (Color Emojis)",
+      "name": "Biểu tượng màu",
       "items": [
         {
           "id": "fluent_color_1st_place_medal",
@@ -16896,7 +16896,7 @@
       ]
     },
     {
-      "name": "Bối cảnh phức tạp (Scenes)",
+      "name": "Bối cảnh minh họa",
       "items": [
         {
           "id": "complex_scenes_3d-modeling",
@@ -25073,7 +25073,7 @@
       ]
     },
     {
-      "name": "Công nghệ & Sóng nghệ thuật xanh",
+      "name": "Sóng công nghệ",
       "items": [
         {
           "id": "tech_waves_tech_blue_001",
@@ -25624,7 +25624,7 @@
       ]
     },
     {
-      "name": "Băng rôn, Dải lụa & Lễ hội đỏ",
+      "name": "Băng rôn lễ hội",
       "items": [
         {
           "id": "festive_banners_banner_red_001",
@@ -25761,7 +25761,7 @@
       ]
     },
     {
-      "name": "Huy hiệu, Nhãn dán & Sự kiện",
+      "name": "Huy hiệu nhãn dán",
       "items": [
         {
           "id": "event_badges_badge_event_001",
@@ -25874,1181 +25874,1181 @@
       ]
     },
     {
-      "name": "Con người & Đời sống Việt Nam",
+      "name": "Đời sống con người",
       "items": [
         {
           "id": "vn_people_life_people_vn_001",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #001",
+          "name": "Minh họa đời sống con người #001",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_001.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_002",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #002",
+          "name": "Minh họa đời sống con người #002",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_002.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_003",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #003",
+          "name": "Minh họa đời sống con người #003",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_003.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_004",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #004",
+          "name": "Minh họa đời sống con người #004",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_004.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_005",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #005",
+          "name": "Minh họa đời sống con người #005",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_005.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_006",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #006",
+          "name": "Minh họa đời sống con người #006",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_006.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_007",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #007",
+          "name": "Minh họa đời sống con người #007",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_007.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_008",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #008",
+          "name": "Minh họa đời sống con người #008",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_008.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_009",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #009",
+          "name": "Minh họa đời sống con người #009",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_009.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_010",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #010",
+          "name": "Minh họa đời sống con người #010",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_010.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_011",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #011",
+          "name": "Minh họa đời sống con người #011",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_011.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_012",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #012",
+          "name": "Minh họa đời sống con người #012",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_012.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_013",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #013",
+          "name": "Minh họa đời sống con người #013",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_013.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_014",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #014",
+          "name": "Minh họa đời sống con người #014",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_014.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_015",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #015",
+          "name": "Minh họa đời sống con người #015",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_015.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_016",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #016",
+          "name": "Minh họa đời sống con người #016",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_016.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_017",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #017",
+          "name": "Minh họa đời sống con người #017",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_017.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_018",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #018",
+          "name": "Minh họa đời sống con người #018",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_018.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_019",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #019",
+          "name": "Minh họa đời sống con người #019",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_019.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_020",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #020",
+          "name": "Minh họa đời sống con người #020",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_020.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_021",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #021",
+          "name": "Minh họa đời sống con người #021",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_021.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_022",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #022",
+          "name": "Minh họa đời sống con người #022",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_022.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_023",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #023",
+          "name": "Minh họa đời sống con người #023",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_023.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_024",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #024",
+          "name": "Minh họa đời sống con người #024",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_024.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_025",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #025",
+          "name": "Minh họa đời sống con người #025",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_025.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_026",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #026",
+          "name": "Minh họa đời sống con người #026",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_026.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_027",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #027",
+          "name": "Minh họa đời sống con người #027",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_027.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_028",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #028",
+          "name": "Minh họa đời sống con người #028",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_028.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_029",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #029",
+          "name": "Minh họa đời sống con người #029",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_029.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_030",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #030",
+          "name": "Minh họa đời sống con người #030",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_030.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_031",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #031",
+          "name": "Minh họa đời sống con người #031",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_031.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_032",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #032",
+          "name": "Minh họa đời sống con người #032",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_032.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_033",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #033",
+          "name": "Minh họa đời sống con người #033",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_033.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_034",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #034",
+          "name": "Minh họa đời sống con người #034",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_034.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_035",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #035",
+          "name": "Minh họa đời sống con người #035",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_035.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_036",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #036",
+          "name": "Minh họa đời sống con người #036",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_036.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_037",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #037",
+          "name": "Minh họa đời sống con người #037",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_037.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_038",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #038",
+          "name": "Minh họa đời sống con người #038",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_038.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_039",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #039",
+          "name": "Minh họa đời sống con người #039",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_039.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_040",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #040",
+          "name": "Minh họa đời sống con người #040",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_040.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_041",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #041",
+          "name": "Minh họa đời sống con người #041",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_041.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_042",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #042",
+          "name": "Minh họa đời sống con người #042",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_042.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_043",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #043",
+          "name": "Minh họa đời sống con người #043",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_043.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_044",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #044",
+          "name": "Minh họa đời sống con người #044",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_044.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_045",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #045",
+          "name": "Minh họa đời sống con người #045",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_045.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_046",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #046",
+          "name": "Minh họa đời sống con người #046",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_046.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_047",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #047",
+          "name": "Minh họa đời sống con người #047",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_047.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_048",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #048",
+          "name": "Minh họa đời sống con người #048",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_048.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_049",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #049",
+          "name": "Minh họa đời sống con người #049",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_049.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_050",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #050",
+          "name": "Minh họa đời sống con người #050",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_050.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_051",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #051",
+          "name": "Minh họa đời sống con người #051",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_051.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_052",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #052",
+          "name": "Minh họa đời sống con người #052",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_052.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_053",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #053",
+          "name": "Minh họa đời sống con người #053",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_053.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_054",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #054",
+          "name": "Minh họa đời sống con người #054",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_054.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_055",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #055",
+          "name": "Minh họa đời sống con người #055",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_055.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_056",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #056",
+          "name": "Minh họa đời sống con người #056",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_056.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_057",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #057",
+          "name": "Minh họa đời sống con người #057",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_057.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_058",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #058",
+          "name": "Minh họa đời sống con người #058",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_058.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_059",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #059",
+          "name": "Minh họa đời sống con người #059",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_059.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_060",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #060",
+          "name": "Minh họa đời sống con người #060",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_060.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_061",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #061",
+          "name": "Minh họa đời sống con người #061",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_061.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_062",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #062",
+          "name": "Minh họa đời sống con người #062",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_062.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_063",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #063",
+          "name": "Minh họa đời sống con người #063",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_063.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_064",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #064",
+          "name": "Minh họa đời sống con người #064",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_064.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_065",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #065",
+          "name": "Minh họa đời sống con người #065",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_065.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_066",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #066",
+          "name": "Minh họa đời sống con người #066",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_066.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_067",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #067",
+          "name": "Minh họa đời sống con người #067",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_067.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_068",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #068",
+          "name": "Minh họa đời sống con người #068",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_068.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_069",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #069",
+          "name": "Minh họa đời sống con người #069",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_069.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_070",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #070",
+          "name": "Minh họa đời sống con người #070",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_070.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_071",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #071",
+          "name": "Minh họa đời sống con người #071",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_071.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_072",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #072",
+          "name": "Minh họa đời sống con người #072",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_072.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_073",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #073",
+          "name": "Minh họa đời sống con người #073",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_073.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_074",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #074",
+          "name": "Minh họa đời sống con người #074",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_074.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_075",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #075",
+          "name": "Minh họa đời sống con người #075",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_075.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_076",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #076",
+          "name": "Minh họa đời sống con người #076",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_076.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_077",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #077",
+          "name": "Minh họa đời sống con người #077",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_077.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_078",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #078",
+          "name": "Minh họa đời sống con người #078",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_078.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_079",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #079",
+          "name": "Minh họa đời sống con người #079",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_079.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_080",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #080",
+          "name": "Minh họa đời sống con người #080",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_080.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_081",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #081",
+          "name": "Minh họa đời sống con người #081",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_081.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_082",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #082",
+          "name": "Minh họa đời sống con người #082",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_082.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_083",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #083",
+          "name": "Minh họa đời sống con người #083",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_083.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_084",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #084",
+          "name": "Minh họa đời sống con người #084",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_084.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_085",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #085",
+          "name": "Minh họa đời sống con người #085",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_085.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_086",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #086",
+          "name": "Minh họa đời sống con người #086",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_086.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_087",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #087",
+          "name": "Minh họa đời sống con người #087",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_087.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_088",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #088",
+          "name": "Minh họa đời sống con người #088",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_088.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_089",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #089",
+          "name": "Minh họa đời sống con người #089",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_089.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_090",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #090",
+          "name": "Minh họa đời sống con người #090",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_090.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_091",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #091",
+          "name": "Minh họa đời sống con người #091",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_091.svg",
           "type": "svg"
         },
         {
           "id": "vn_people_life_people_vn_092",
-          "name": "Tranh minh họa văn hóa đời sống Việt Nam #092",
+          "name": "Minh họa đời sống con người #092",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_people_life/people_vn_092.svg",
           "type": "svg"
         }
       ]
     },
     {
-      "name": "Di sản & Hoa văn Hoàng kim Việt Nam",
+      "name": "Văn hóa Ấn Độ",
       "items": [
         {
           "id": "vn_heritage_gold_heritage_gold_001",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #001",
+          "name": "Họa tiết & Hoa văn Ấn Độ #001",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_001.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_002",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #002",
+          "name": "Họa tiết & Hoa văn Ấn Độ #002",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_002.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_003",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #003",
+          "name": "Họa tiết & Hoa văn Ấn Độ #003",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_003.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_004",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #004",
+          "name": "Họa tiết & Hoa văn Ấn Độ #004",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_004.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_005",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #005",
+          "name": "Họa tiết & Hoa văn Ấn Độ #005",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_005.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_006",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #006",
+          "name": "Họa tiết & Hoa văn Ấn Độ #006",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_006.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_007",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #007",
+          "name": "Họa tiết & Hoa văn Ấn Độ #007",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_007.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_008",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #008",
+          "name": "Họa tiết & Hoa văn Ấn Độ #008",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_008.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_009",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #009",
+          "name": "Họa tiết & Hoa văn Ấn Độ #009",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_009.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_010",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #010",
+          "name": "Họa tiết & Hoa văn Ấn Độ #010",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_010.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_011",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #011",
+          "name": "Họa tiết & Hoa văn Ấn Độ #011",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_011.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_012",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #012",
+          "name": "Họa tiết & Hoa văn Ấn Độ #012",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_012.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_013",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #013",
+          "name": "Họa tiết & Hoa văn Ấn Độ #013",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_013.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_014",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #014",
+          "name": "Họa tiết & Hoa văn Ấn Độ #014",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_014.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_015",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #015",
+          "name": "Họa tiết & Hoa văn Ấn Độ #015",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_015.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_016",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #016",
+          "name": "Họa tiết & Hoa văn Ấn Độ #016",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_016.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_017",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #017",
+          "name": "Họa tiết & Hoa văn Ấn Độ #017",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_017.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_018",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #018",
+          "name": "Họa tiết & Hoa văn Ấn Độ #018",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_018.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_019",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #019",
+          "name": "Họa tiết & Hoa văn Ấn Độ #019",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_019.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_020",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #020",
+          "name": "Họa tiết & Hoa văn Ấn Độ #020",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_020.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_021",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #021",
+          "name": "Họa tiết & Hoa văn Ấn Độ #021",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_021.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_022",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #022",
+          "name": "Họa tiết & Hoa văn Ấn Độ #022",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_022.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_023",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #023",
+          "name": "Họa tiết & Hoa văn Ấn Độ #023",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_023.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_024",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #024",
+          "name": "Họa tiết & Hoa văn Ấn Độ #024",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_024.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_025",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #025",
+          "name": "Họa tiết & Hoa văn Ấn Độ #025",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_025.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_026",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #026",
+          "name": "Họa tiết & Hoa văn Ấn Độ #026",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_026.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_027",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #027",
+          "name": "Họa tiết & Hoa văn Ấn Độ #027",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_027.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_028",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #028",
+          "name": "Họa tiết & Hoa văn Ấn Độ #028",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_028.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_029",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #029",
+          "name": "Họa tiết & Hoa văn Ấn Độ #029",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_029.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_030",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #030",
+          "name": "Họa tiết & Hoa văn Ấn Độ #030",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_030.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_031",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #031",
+          "name": "Họa tiết & Hoa văn Ấn Độ #031",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_031.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_032",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #032",
+          "name": "Họa tiết & Hoa văn Ấn Độ #032",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_032.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_033",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #033",
+          "name": "Họa tiết & Hoa văn Ấn Độ #033",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_033.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_034",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #034",
+          "name": "Họa tiết & Hoa văn Ấn Độ #034",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_034.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_035",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #035",
+          "name": "Họa tiết & Hoa văn Ấn Độ #035",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_035.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_036",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #036",
+          "name": "Họa tiết & Hoa văn Ấn Độ #036",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_036.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_037",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #037",
+          "name": "Họa tiết & Hoa văn Ấn Độ #037",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_037.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_038",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #038",
+          "name": "Họa tiết & Hoa văn Ấn Độ #038",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_038.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_039",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #039",
+          "name": "Họa tiết & Hoa văn Ấn Độ #039",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_039.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_040",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #040",
+          "name": "Họa tiết & Hoa văn Ấn Độ #040",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_040.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_041",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #041",
+          "name": "Họa tiết & Hoa văn Ấn Độ #041",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_041.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_042",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #042",
+          "name": "Họa tiết & Hoa văn Ấn Độ #042",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_042.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_043",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #043",
+          "name": "Họa tiết & Hoa văn Ấn Độ #043",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_043.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_044",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #044",
+          "name": "Họa tiết & Hoa văn Ấn Độ #044",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_044.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_045",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #045",
+          "name": "Họa tiết & Hoa văn Ấn Độ #045",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_045.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_046",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #046",
+          "name": "Họa tiết & Hoa văn Ấn Độ #046",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_046.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_047",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #047",
+          "name": "Họa tiết & Hoa văn Ấn Độ #047",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_047.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_048",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #048",
+          "name": "Họa tiết & Hoa văn Ấn Độ #048",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_048.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_049",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #049",
+          "name": "Họa tiết & Hoa văn Ấn Độ #049",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_049.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_050",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #050",
+          "name": "Họa tiết & Hoa văn Ấn Độ #050",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_050.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_051",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #051",
+          "name": "Họa tiết & Hoa văn Ấn Độ #051",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_051.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_052",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #052",
+          "name": "Họa tiết & Hoa văn Ấn Độ #052",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_052.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_053",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #053",
+          "name": "Họa tiết & Hoa văn Ấn Độ #053",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_053.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_054",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #054",
+          "name": "Họa tiết & Hoa văn Ấn Độ #054",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_054.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_055",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #055",
+          "name": "Họa tiết & Hoa văn Ấn Độ #055",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_055.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_056",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #056",
+          "name": "Họa tiết & Hoa văn Ấn Độ #056",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_056.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_057",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #057",
+          "name": "Họa tiết & Hoa văn Ấn Độ #057",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_057.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_058",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #058",
+          "name": "Họa tiết & Hoa văn Ấn Độ #058",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_058.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_059",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #059",
+          "name": "Họa tiết & Hoa văn Ấn Độ #059",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_059.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_060",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #060",
+          "name": "Họa tiết & Hoa văn Ấn Độ #060",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_060.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_061",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #061",
+          "name": "Họa tiết & Hoa văn Ấn Độ #061",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_061.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_062",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #062",
+          "name": "Họa tiết & Hoa văn Ấn Độ #062",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_062.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_063",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #063",
+          "name": "Họa tiết & Hoa văn Ấn Độ #063",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_063.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_064",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #064",
+          "name": "Họa tiết & Hoa văn Ấn Độ #064",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_064.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_065",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #065",
+          "name": "Họa tiết & Hoa văn Ấn Độ #065",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_065.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_066",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #066",
+          "name": "Họa tiết & Hoa văn Ấn Độ #066",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_066.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_067",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #067",
+          "name": "Họa tiết & Hoa văn Ấn Độ #067",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_067.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_068",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #068",
+          "name": "Họa tiết & Hoa văn Ấn Độ #068",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_068.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_069",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #069",
+          "name": "Họa tiết & Hoa văn Ấn Độ #069",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_069.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_070",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #070",
+          "name": "Họa tiết & Hoa văn Ấn Độ #070",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_070.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_071",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #071",
+          "name": "Họa tiết & Hoa văn Ấn Độ #071",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_071.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_072",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #072",
+          "name": "Họa tiết & Hoa văn Ấn Độ #072",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_072.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_073",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #073",
+          "name": "Họa tiết & Hoa văn Ấn Độ #073",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_073.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_074",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #074",
+          "name": "Họa tiết & Hoa văn Ấn Độ #074",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_074.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_075",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #075",
+          "name": "Họa tiết & Hoa văn Ấn Độ #075",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_075.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_076",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #076",
+          "name": "Họa tiết & Hoa văn Ấn Độ #076",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_076.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_077",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #077",
+          "name": "Họa tiết & Hoa văn Ấn Độ #077",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_077.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_078",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #078",
+          "name": "Họa tiết & Hoa văn Ấn Độ #078",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_078.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_079",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #079",
+          "name": "Họa tiết & Hoa văn Ấn Độ #079",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_079.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_080",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #080",
+          "name": "Họa tiết & Hoa văn Ấn Độ #080",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_080.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_081",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #081",
+          "name": "Họa tiết & Hoa văn Ấn Độ #081",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_081.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_082",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #082",
+          "name": "Họa tiết & Hoa văn Ấn Độ #082",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_082.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_083",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #083",
+          "name": "Họa tiết & Hoa văn Ấn Độ #083",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_083.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_084",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #084",
+          "name": "Họa tiết & Hoa văn Ấn Độ #084",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_084.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_085",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #085",
+          "name": "Họa tiết & Hoa văn Ấn Độ #085",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_085.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_086",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #086",
+          "name": "Họa tiết & Hoa văn Ấn Độ #086",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_086.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_087",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #087",
+          "name": "Họa tiết & Hoa văn Ấn Độ #087",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_087.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_088",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #088",
+          "name": "Họa tiết & Hoa văn Ấn Độ #088",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_088.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_089",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #089",
+          "name": "Họa tiết & Hoa văn Ấn Độ #089",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_089.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_090",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #090",
+          "name": "Họa tiết & Hoa văn Ấn Độ #090",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_090.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_091",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #091",
+          "name": "Họa tiết & Hoa văn Ấn Độ #091",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_091.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_092",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #092",
+          "name": "Họa tiết & Hoa văn Ấn Độ #092",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_092.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_093",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #093",
+          "name": "Họa tiết & Hoa văn Ấn Độ #093",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_093.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_094",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #094",
+          "name": "Họa tiết & Hoa văn Ấn Độ #094",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_094.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_095",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #095",
+          "name": "Họa tiết & Hoa văn Ấn Độ #095",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_095.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_096",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #096",
+          "name": "Họa tiết & Hoa văn Ấn Độ #096",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_096.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_097",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #097",
+          "name": "Họa tiết & Hoa văn Ấn Độ #097",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_097.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_098",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #098",
+          "name": "Họa tiết & Hoa văn Ấn Độ #098",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_098.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_099",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #099",
+          "name": "Họa tiết & Hoa văn Ấn Độ #099",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_099.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_100",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #100",
+          "name": "Họa tiết & Hoa văn Ấn Độ #100",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_100.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_101",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #101",
+          "name": "Họa tiết & Hoa văn Ấn Độ #101",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_101.svg",
           "type": "svg"
         },
         {
           "id": "vn_heritage_gold_heritage_gold_102",
-          "name": "Họa tiết di sản & Trống đồng hoàng kim #102",
+          "name": "Họa tiết & Hoa văn Ấn Độ #102",
           "url": "https://zenq-graphics-api-online.vercel.app/vn_heritage_gold/heritage_gold_102.svg",
           "type": "svg"
         }
       ]
     },
     {
-      "name": "Hoa cỏ & Nghệ thuật mùa xuân",
+      "name": "Hoa cỏ mùa xuân",
       "items": [
         {
           "id": "spring_floral_floral_spring_001",
@@ -27749,7 +27749,7 @@
       ]
     },
     {
-      "name": "Biểu trưng, Dấu ấn & Di tích",
+      "name": "Biểu trưng di tích",
       "items": [
         {
           "id": "heritage_stamps_stamp_monument_001",
