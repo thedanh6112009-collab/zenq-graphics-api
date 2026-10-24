@@ -1089,7 +1089,7 @@
       ]
     },
     {
-      "name": "Chuyển màu Gradient",
+      "name": "Gradient",
       "items": [
         {
           "id": "gradients_gradient_scrim_fade_black",
@@ -28150,7 +28150,7 @@
       ]
     },
     {
-      "name": "Lụa & Vải mềm nghệ thuật",
+      "name": "Lụa mềm",
       "items": [
         {
           "id": "silk_fabrics_silk_001",
@@ -28371,7 +28371,7 @@
       ]
     },
     {
-      "name": "Bụi cỏ & Cây cỏ thiên nhiên",
+      "name": "Bụi cỏ",
       "items": [
         {
           "id": "grass_bushes_grass_001",
@@ -28592,7 +28592,7 @@
       ]
     },
     {
-      "name": "Vàng Gold & Khối hoàng kim cao cấp",
+      "name": "Vàng Gold",
       "items": [
         {
           "id": "gold_luxury_gold_001",
@@ -28729,7 +28729,7 @@
       ]
     },
     {
-      "name": "Cành lá hoàng kim & Cây lá dát vàng",
+      "name": "Cây lá vàng",
       "items": [
         {
           "id": "golden_foliage_foliage_gold_001",
@@ -28884,7 +28884,7 @@
       ]
     },
     {
-      "name": "Hào khí & Biểu trưng Việt Nam",
+      "name": "Việt Nam",
       "items": [
         {
           "id": "vietnam_pride_vn_pride_001",
@@ -28961,7 +28961,7 @@
       ]
     },
     {
-      "name": "Dải màu Gradient chuyển sắc",
+      "name": "Gradient",
       "items": [
         {
           "id": "modern_gradients_gradient_001",
