@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "total": 4840,
+  "total": 4818,
   "categories": [
     {
       "name": "Mây và khí quyển",
@@ -1118,7 +1118,7 @@
       ]
     },
     {
-      "name": "Văn hóa Việt Nam",
+      "name": "Việt Nam",
       "items": [
         {
           "id": "vietnam_vn_flag",
@@ -1364,6 +1364,78 @@
           "id": "vietnam_vn_ngoi_sao_vang_nam_canh_vector",
           "name": "Ngôi sao vàng năm cánh tỏa sáng vector",
           "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam/vn_ngoi_sao_vang_nam_canh_vector.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_001",
+          "name": "Hào khí & Biểu trưng Việt Nam #001",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_001.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_002",
+          "name": "Hào khí & Biểu trưng Việt Nam #002",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_002.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_003",
+          "name": "Hào khí & Biểu trưng Việt Nam #003",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_003.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_004",
+          "name": "Hào khí & Biểu trưng Việt Nam #004",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_004.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_005",
+          "name": "Hào khí & Biểu trưng Việt Nam #005",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_005.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_006",
+          "name": "Hào khí & Biểu trưng Việt Nam #006",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_006.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_007",
+          "name": "Hào khí & Biểu trưng Việt Nam #007",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_007.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_008",
+          "name": "Hào khí & Biểu trưng Việt Nam #008",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_008.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_009",
+          "name": "Hào khí & Biểu trưng Việt Nam #009",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_009.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_010",
+          "name": "Hào khí & Biểu trưng Việt Nam #010",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_010.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_011",
+          "name": "Hào khí & Biểu trưng Việt Nam #011",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_011.svg",
+          "type": "svg"
+        },
+        {
+          "id": "vietnam_pride_vn_pride_012",
+          "name": "Hào khí & Biểu trưng Việt Nam #012",
+          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_012.svg",
           "type": "svg"
         }
       ]
@@ -25487,7 +25559,7 @@
       ]
     },
     {
-      "name": "Vải lụa lễ hội",
+      "name": "Băng rôn",
       "items": [
         {
           "id": "festive_banners_banner_red_001",
@@ -25737,7 +25809,7 @@
       ]
     },
     {
-      "name": "Tranh nhân vật",
+      "name": "Đời sống Việt Nam",
       "items": [
         {
           "id": "vn_people_life_people_vn_001",
@@ -26294,7 +26366,7 @@
       ]
     },
     {
-      "name": "Văn hóa Ấn Độ",
+      "name": "Di sản Việt Nam",
       "items": [
         {
           "id": "vn_heritage_gold_heritage_gold_001",
@@ -28742,83 +28814,6 @@
           "id": "golden_foliage_foliage_gold_025",
           "name": "Cành lá hoàng kim & Cây lá dát vàng #025",
           "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/golden_foliage/foliage_gold_025.svg",
-          "type": "svg"
-        }
-      ]
-    },
-    {
-      "name": "Việt Nam",
-      "items": [
-        {
-          "id": "vietnam_pride_vn_pride_001",
-          "name": "Hào khí & Biểu trưng Việt Nam #001",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_001.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_002",
-          "name": "Hào khí & Biểu trưng Việt Nam #002",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_002.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_003",
-          "name": "Hào khí & Biểu trưng Việt Nam #003",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_003.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_004",
-          "name": "Hào khí & Biểu trưng Việt Nam #004",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_004.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_005",
-          "name": "Hào khí & Biểu trưng Việt Nam #005",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_005.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_006",
-          "name": "Hào khí & Biểu trưng Việt Nam #006",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_006.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_007",
-          "name": "Hào khí & Biểu trưng Việt Nam #007",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_007.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_008",
-          "name": "Hào khí & Biểu trưng Việt Nam #008",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_008.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_009",
-          "name": "Hào khí & Biểu trưng Việt Nam #009",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_009.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_010",
-          "name": "Hào khí & Biểu trưng Việt Nam #010",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_010.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_011",
-          "name": "Hào khí & Biểu trưng Việt Nam #011",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_011.svg",
-          "type": "svg"
-        },
-        {
-          "id": "vietnam_pride_vn_pride_012",
-          "name": "Hào khí & Biểu trưng Việt Nam #012",
-          "url": "https://raw.githubusercontent.com/thedanh6112009-collab/zenq-graphics-api/main/public/vietnam_pride/vn_pride_012.svg",
           "type": "svg"
         }
       ]
